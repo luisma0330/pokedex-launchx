@@ -1,1 +1,1 @@
-"# pokedex-launchx" 
+# Pokédex Launch X
